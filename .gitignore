@@ -1,12 +1,5 @@
 # .gitignore
 .env
-<<<<<<< HEAD
-*.local.php
-.vscode/
-.idea/
-=======
-.vscode/
->>>>>>> ed7ce03912065b3356df04353e456b2f315384c9
 .DS_Store
 Thumbs.db
 *.log
